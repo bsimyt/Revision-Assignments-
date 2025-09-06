@@ -267,6 +267,7 @@ Tree b : Skewed (unbalanced) tree
 
 Tree c: balanced BST 
 
+Explain : 
 Tree C would give the best search performance. Although the time complexity of Tree A and Tree C is the same Olog(n). 
 A full binary tree is a rigid structure that is often impossible to maintain when inserting or deleting without rebuilding the whole tree, unlike a balanced binary tree. 
 A balanced binary tree is easier to maintain when inserting or deleting. 
